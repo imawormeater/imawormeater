@@ -1,10 +1,5 @@
-- 👋 Hi, I’m vomic
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning uhhhhh
-- 💞️ I’m looking to collaborate on marioooo brotheereersss
-- 📫 How to reach me discord im howling at da moon
+game dev
 
-<!---
-imawormeater/imawormeater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+currently working on roblox "Something Evil Will Happen"
+
+you can see old fnf project source codes and the source code for sorakai quest
